@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  --navy: #33475B;
+  --grey: #2D2F30;
+  --n-gray: #8B8C8C;
+  --h-font: "Playfair Display", serif;
+  --p-font: "Poppins", sans-serif;
+  --dark-navy: #094B72;
+}
+
+ul li{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+  color: ;
+}
