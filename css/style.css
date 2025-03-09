@@ -54,3 +54,35 @@ nav .nav-wrapper .nav-items ul{
   font-size: 12px;
 }
 /* nav end  */
+/* banner start  */
+#banner{
+  /* padding-top: 132px; */
+}
+#banner .banner-wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#banner .banner-left h1{
+  width: 800px;
+  font-size: 90px;
+  color: var(--dark-navy);
+  font-family: var(--h-font);
+  line-height: 120%;
+}
+#banner .banner-left h1{
+  width: 800px;
+  font-size: 90px;
+  color: var(--dark-navy);
+  font-family: var(--h-font);
+  line-height: 120%;
+}
+#banner .banner-left {
+  width: 50%;
+  
+}
+#banner .banner-right img{
+  margin-right: -44px;
+
+}
+/* banner end  */
