@@ -109,3 +109,19 @@ nav .nav-wrapper .nav-items ul{
 
 }
 /* banner end  */
+
+
+
+
+/* counter start  */
+#counter{
+  text-align: center;
+}
+#counter .box{
+  display: flex;
+  width: 825px;
+  margin: 0 auto;
+  justify-content: space-evenly;
+  align-items: center;
+}
+/* counter end  */
