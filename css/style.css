@@ -70,12 +70,29 @@ nav .nav-wrapper .nav-items ul{
   font-family: var(--h-font);
   line-height: 120%;
 }
-#banner .banner-left h1{
-  width: 800px;
-  font-size: 90px;
+#banner .banner-left p{
+  width: 578px;
+  font-size: 24px;
+  color: var(--n-gray);
+  margin-top: 40px;
+  margin-bottom: 36px;
+  line-height: 158%;
+}
+#banner .banner-left button{
+  padding: 28px 36px;
+  color: white;
+  background: var(--dark-navy);
+  border-radius: 8px;
+  cursor: pointer;
+  border: 1px solid var(--dark-navy);
+  margin-bottom: 115px;
+}
+#banner .banner-left button:hover{
   color: var(--dark-navy);
-  font-family: var(--h-font);
-  line-height: 120%;
+  background: transparent;
+  border-radius: 8px;
+  cursor: pointer;
+  border: 1px solid var(--dark-navy);
 }
 #banner .banner-left {
   width: 50%;
